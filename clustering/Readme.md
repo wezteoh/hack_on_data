@@ -1,4 +1,4 @@
-This folder conatins the pipeline of our analysis on amazon product review data.
+This folder contains the pipeline of our analysis on amazon product review data.
 The sequence for which the files are to be run is as follow:
 1. product_attributes.ipynb	pipeline updated
 2. clustering_clean_adapted.ipynb
